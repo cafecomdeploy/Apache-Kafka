@@ -1,4 +1,4 @@
-# 🚀 StreamForge - Apache Kafka na prática
+# 🚀 Apache Kafka na prática
 
 Repositório prático dedicado ao estudo do Apache Kafka, com exemplos reais de produção e consumo de mensagens em Java. O objetivo é entender na prática como sistemas distribuídos se comunicam de forma assíncrona, sem abstrações de frameworks, focando nos fundamentos que fazem a diferença no dia a dia de um backend.
 
@@ -32,6 +32,7 @@ Este projeto aborda:
 
 ```bash
 docker compose up -d
+```
 
 ---
 
